@@ -6,7 +6,7 @@ The exercise builds upon a webhook ingestion system and adds:
 - **Event deduplication** to prevent duplicate processing
 - **Advanced aggregations** (trends, statistics)
 
-You will have **60 minutes** to implement the core functionality during the interview.
+You will have **45 minutes** to implement the core functionality during the interview.
 
 ---
 
