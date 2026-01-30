@@ -1,0 +1,18 @@
+{
+  "name": "realtime-event-processing-exercise",
+  "version": "1.0.0",
+  "description": "Senior interview exercise: real-time event processing with deduplication, rate limiting, and advanced aggregations.",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js",
+    "dev": "npx nodemon src/server.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.19.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  }
+}
+
